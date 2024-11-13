@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sw.js', { scope: '/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://kind-meadow-0bb930e1e.5.azurestaticapps.net/sw.js', { scope: 'https://kind-meadow-0bb930e1e.5.azurestaticapps.net/' })})}
